@@ -3342,12 +3342,7 @@ read SEGUE;;
      #Op do menup de sair
 	 echo -e '
 \033[1;36m
- ____            _   _           _              _ _       
-| __ ) _   _ _  | | | |_ __ ___ | |__  _ __ ___| | | __ _ 
-|  _ \| | | (_) | | | | `_ ` _ \| `_ \| `__/ _ \ | |/ _` |
-| |_) | |_| |_  | |_| | | | | | | |_) | | |  __/ | | (_| |
-|____/ \__, (_)  \___/|_| |_| |_|_.__/|_|  \___|_|_|\__,_|
-       |___/  \033[0m';;
+ ___________APRENDEU COM O HAKASHI ENTÃO PASSE NO CANAL DELE E SE INSCREVA (LINK: https://youtube.com/channel/UCIEuAWtpsNa2GAS65NhDUJg )____agradeço a todos! [SOMOS UMA LEGIÃO] by:Werbert(Hakashi)  \033[0m';;
 esac
 #Acima o fim do caso do menup
 #Fim do enquanto
