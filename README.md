@@ -24,3 +24,4 @@ Foi feito em base de educação.
 
 ### Vídeo no YouTube ensinando a instalar
 
+[![Instalando o menu-hakashi](http://img.youtube.com/vi/K4wte_6wmHw/0.jpg)](http://www.youtube.com/watch?v=K4wte_6wmHw "Vídeo da Instalação do menu-hakashi")
