@@ -5,9 +5,13 @@ tudo sobre hacker ou cracker e foi feito pra iniciantes no termux!
 
 # instalação
 $ pkg update & pkg upgrade
+
 $ pkg install git
+
 $ git clone https://github.com/Walker1291/menu-hakashi
+
 $ cd menu-hakashi
+
 $ bash menu-hakashi.sh
 
 #Fim
