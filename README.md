@@ -14,8 +14,9 @@ $ cd menu-hakashi
 
 $ bash menu-hakashi.sh
 
-# Aviso
+## Aviso
 Aproveite bem! Não me responsabilizo por uso indevido
 Do conhecimento que irá aprender nesse diretório
 Foi feito em base de educação.
-# Imagem
+
+![imagem do menu hakashi](https://github.com/Walker1291/menu-hakashi/blob/main/hakashi-menu.png)
