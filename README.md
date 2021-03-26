@@ -20,3 +20,7 @@ Do conhecimento que irá aprender nesse diretório
 Foi feito em base de educação.
 
 ![imagem do menu hakashi](https://github.com/Walker1291/menu-hakashi/blob/main/hakashi-menu.png)
+
+
+### Vídeo no YouTube ensinando a instalar
+
